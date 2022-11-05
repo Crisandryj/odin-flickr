@@ -70,3 +70,5 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem 'flickrie', '~> 1.6', '>= 1.6.1'

@@ -7,7 +7,9 @@ gem "figaro"
 
 gem "pusher"
 
-gem 'flickraw', '~> 0.9.10'
+gem 'flickrie', '~> 1.6', '>= 1.6.1'
+
+# gem 'flickraw', '~> 0.9.10'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.3", ">= 7.0.3.1"

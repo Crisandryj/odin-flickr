@@ -7,7 +7,9 @@ gem "figaro"
 
 gem "pusher"
 
-gem 'flickrie', '~> 1.6', '>= 1.6.1'
+gem 'flickr-objects', '~> 0.6.3'
+
+gem 'simple-flickr', '~> 0.1.3'
 
 # gem 'flickraw', '~> 0.9.10'
 
